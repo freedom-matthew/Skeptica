@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Source/Bootstrapper/">
+    <Project Path="Source/Bootstrapper/Skeptica.Api/Skeptica.Api.csproj" />
+  </Folder>
+</Solution>

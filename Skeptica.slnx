@@ -8,4 +8,10 @@
     <Project Path="Source/BuildingBlocks/Skeptica.BuildingBlocks.Domain/Skeptica.BuildingBlocks.Domain.csproj" />
     <Project Path="Source/BuildingBlocks/Skeptica.BuildingBlocks.Infrastructure/Skeptica.BuildingBlocks.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/Source/Modules/" />
+  <Folder Name="/Source/Modules/Catalog/">
+    <Project Path="Source/Modules/Catalog/Skeptica.Modules.Catalog.Application/Skeptica.Modules.Catalog.Application.csproj" />
+    <Project Path="Source/Modules/Catalog/Skeptica.Modules.Catalog.Domain/Skeptica.Modules.Catalog.Domain.csproj" />
+    <Project Path="Source/Modules/Catalog/Skeptica.Modules.Catalog.Infrastructure/Skeptica.Modules.Catalog.Infrastructure.csproj" />
+  </Folder>
 </Solution>

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Skeptica.Modules.Catalog.Application\Skeptica.Modules.Catalog.Application.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\Skeptica.BuildingBlocks.Infrastructure\Skeptica.BuildingBlocks.Infrastructure.csproj" />
+    <ProjectReference Include="..\Skeptica.Modules.Catalog.Domain\Skeptica.Modules.Catalog.Domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

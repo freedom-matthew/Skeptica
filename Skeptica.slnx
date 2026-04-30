@@ -1,5 +1,17 @@
 <Solution>
+  <Folder Name="/Source/" />
   <Folder Name="/Source/Bootstrapper/">
     <Project Path="Source/Bootstrapper/Skeptica.Api/Skeptica.Api.csproj" />
+  </Folder>
+  <Folder Name="/Source/BuildingBlocks/">
+    <Project Path="Source/BuildingBlocks/Skeptica.BuildingBlocks.Application/Skeptica.BuildingBlocks.Application.csproj" />
+    <Project Path="Source/BuildingBlocks/Skeptica.BuildingBlocks.Domain/Skeptica.BuildingBlocks.Domain.csproj" />
+    <Project Path="Source/BuildingBlocks/Skeptica.BuildingBlocks.Infrastructure/Skeptica.BuildingBlocks.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Source/Modules/" />
+  <Folder Name="/Source/Modules/Catalog/">
+    <Project Path="Source/Modules/Catalog/Skeptica.Modules.Catalog.Application/Skeptica.Modules.Catalog.Application.csproj" />
+    <Project Path="Source/Modules/Catalog/Skeptica.Modules.Catalog.Domain/Skeptica.Modules.Catalog.Domain.csproj" />
+    <Project Path="Source/Modules/Catalog/Skeptica.Modules.Catalog.Infrastructure/Skeptica.Modules.Catalog.Infrastructure.csproj" />
   </Folder>
 </Solution>
